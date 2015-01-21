@@ -1,0 +1,18 @@
+# Site settings
+title: 付洋
+email: 18652023713@wo.cn
+description: > # this means to ignore newlines until "baseurl:"
+  入梦太深，忘乎所以。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+port: 3000
+twitter_username: 18652023713
+github_username: oakhole
+
+# Build settings
+markdown: kramdown
+
+paginate: 5
+
+sass:
+    style: :compressed
